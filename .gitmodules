@@ -1,0 +1,6 @@
+[submodule "HappyPolarAPI"]
+	path = HappyPolarAPI
+	url = https://github.com/DxTa/HappyPolarAPI
+[submodule "HappyPolarAndroid"]
+	path = HappyPolarAndroid
+	url = https://github.com/DxTa/HappyPolarAndroid
