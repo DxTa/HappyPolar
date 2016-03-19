@@ -2,8 +2,8 @@ APP_ROOT=$(pwd)
 cd $APP_ROOT && git submodule init
 cd $APP_ROOT && git submodule update
 
-cd $APP_ROOT/HappyPolarAPI && npm install
-cd $APP_ROOT/HappyPolarFrontend && npm install
+cd $APP_ROOT/api && npm install
+cd $APP_ROOT/frontend && npm install
 
 npm i nodemon -g
 docker pull mongo

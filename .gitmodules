@@ -1,9 +1,9 @@
-[submodule "HappyPolarAPI"]
-	path = HappyPolarAPI
-	url = https://github.com/DxTa/HappyPolarAPI
-[submodule "HappyPolarAndroid"]
-	path = HappyPolarAndroid
-	url = https://github.com/DxTa/HappyPolarAndroid
-[submodule "HappyPolarFrontend"]
-	path = HappyPolarFrontend
-	url = https://github.com/DxTa/HappyPolarFrontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/DxTa/HappyPolarFrontend.git
+[submodule "android"]
+	path = android
+	url = https://github.com/DxTa/HappyPolarAndroid.git
+[submodule "api"]
+	path = api
+	url = https://github.com/DxTa/HappyPolarAPI.git

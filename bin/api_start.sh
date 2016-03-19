@@ -1,1 +1,1 @@
-nodemon HappyPolarAPI/app.js
+nodemon api/app.js
