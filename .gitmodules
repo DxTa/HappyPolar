@@ -4,3 +4,6 @@
 [submodule "HappyPolarAndroid"]
 	path = HappyPolarAndroid
 	url = https://github.com/DxTa/HappyPolarAndroid
+[submodule "HappyPolarFrontend"]
+	path = HappyPolarFrontend
+	url = https://github.com/DxTa/HappyPolarFrontend
